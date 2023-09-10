@@ -111,8 +111,8 @@ def strip_dict(scanned_doc):
 if __name__ == "__main__":
 
     #Setting Up AWS Connection
-    aws_access_key_id = "AKIAYIJXM3NSD62GRVMD"
-    aws_secret_access_key = "r8H6iaILCNimaTY4LYOQ/xCEHiB3rgnPyVbquC7O"
+    aws_access_key_id = "BLANK"
+    aws_secret_access_key = "BLANK"
     aws_region = "ap-southeast-2"  # Replace with your AWS region, e.g., "us-east-1"
 
     log_group_name = '/aws/lambda/imageprocessing'
