@@ -6,6 +6,6 @@ Welcome to our GitHub repository for our form filler program. A few things to no
 - Please contact us for the access keys if you wish to run this program for yourself.
  
 Contact details: 
-Name - Aditya Jain
-Phone number - 0412944008 
-Email - jainaditya1704@gmail.com
+- Name: Aditya Jain
+- Phone number: 0412944008 
+- Email: jainaditya1704@gmail.com
