@@ -1,0 +1,9 @@
+Requirements of this program are as follows:
+
+tkinter 
+boto3
+json
+fitz
+fuzzywuzzy 
+os
+time
